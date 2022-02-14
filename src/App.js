@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         Hello from AWS Amplify
+        <h4>Developer: Trey Fletcher</h4>
       </header>
     </div>
   );
